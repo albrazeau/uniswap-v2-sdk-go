@@ -4,8 +4,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/miraclesu/uniswap-sdk-go/constants"
-	"github.com/miraclesu/uniswap-sdk-go/utils"
+	"github.com/albrazeau/uniswap-v2-sdk-go/constants"
+	"github.com/albrazeau/uniswap-v2-sdk-go/utils"
 )
 
 var (

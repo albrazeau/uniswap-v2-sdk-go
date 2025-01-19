@@ -5,8 +5,8 @@ import (
 
 	"github.com/ethereum/go-ethereum/common/math"
 
-	"github.com/miraclesu/uniswap-sdk-go/constants"
-	"github.com/miraclesu/uniswap-sdk-go/number"
+	"github.com/albrazeau/uniswap-v2-sdk-go/constants"
+	"github.com/albrazeau/uniswap-v2-sdk-go/number"
 )
 
 type Price struct {

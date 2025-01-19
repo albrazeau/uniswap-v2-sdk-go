@@ -6,8 +6,8 @@ import (
 
 	"github.com/shopspring/decimal"
 
-	"github.com/miraclesu/uniswap-sdk-go/constants"
-	"github.com/miraclesu/uniswap-sdk-go/number"
+	"github.com/albrazeau/uniswap-v2-sdk-go/constants"
+	"github.com/albrazeau/uniswap-v2-sdk-go/number"
 )
 
 // ZeroFraction zero fraction instance
